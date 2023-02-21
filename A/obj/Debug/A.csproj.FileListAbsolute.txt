@@ -1,0 +1,7 @@
+W:\projects\Olimp_Programming\A\bin\Debug\A.exe
+W:\projects\Olimp_Programming\A\bin\Debug\A.pdb
+W:\projects\Olimp_Programming\A\obj\Debug\A.csproj.AssemblyReference.cache
+W:\projects\Olimp_Programming\A\obj\Debug\A.csproj.SuggestedBindingRedirects.cache
+W:\projects\Olimp_Programming\A\obj\Debug\A.csproj.CoreCompileInputs.cache
+W:\projects\Olimp_Programming\A\obj\Debug\A.exe
+W:\projects\Olimp_Programming\A\obj\Debug\A.pdb
